@@ -61,4 +61,7 @@ body {
     color: #757575;
     text-align: center;
   }
-  
+footer {
+    display:block;
+    text-align:center;
+}  
